@@ -1,8 +1,5 @@
-<h1 align="centre">🎵 BOT MUSIC MAN 🎵</h1>
+<h1 align="centre">🎵  🎵</h1>
 
-### A bot that can play music on Telegram Group and Channel Voice Chats
-#### POWERED BY [MARSHALX TGCALLS](https://github.com/MarshalX/tgcalls)
-### Available on telegram as [@Musikmanbot](https://t.me/musikmanbot)
 
 <h2> Features 🔥 </h2>
 
@@ -22,10 +19,7 @@
 
 ### 💜 Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mrismanaziz/Music-Man/tree/master)
 
-Get pyrogram (p)  `SESSION` from here:
-[![Run on Repl.it](https://repl.it/badge/github/SpEcHiDe/GenerateStringSession)](https://repl.it/@mrismanaziz/stringenSession?lite=1&outputonly=1)
 
 ### Commands for Group 🛠
 #### For all in group
@@ -70,19 +64,7 @@ Don't edit this part
 #### Special Credits
 - [Rojserbest](http://github.com/rojserbes): Callsmusic Developer
 
-This bot is based on the original work done by [Rojserbest](http://github.com/rojserbest). Without his hardwork Music Man won't exist. Music-Man is a modified version of [Callsmusic](https://github.com/callsmusic/callsmusic)
-
+This bot is based on the original work done by [Rojserbest](http://github.com/rojserbest). Without his hardwork Music Man won't exist. 
 #### Contribtors
-- [Risman](https://github.com/mrismanaziz)
-- [InukaASiTH](https://github.com/InukaAsith): Dev
-- [Technical-Hunter](https://github.com/Technical-Hunter): Dev
-- [Rojserbest](http://github.com/rojserbest): Dev
-- [Wrench](https://github.com/EverythingSuckz/): Dev
-- [Bemro](https://github.com/bemroofficial): Dev
-- [QueenArzoo](https://github.com/QueenArzoo): Dev
-- [lucifeermorningstar](https://github.com/lucifeermorningstar): Dev
-- [Hamker Cat](https://github.com/thehamkercat/)
-- [Anjana-Ma](https://github.com/Anjana-Ma): 
-- [ImJanindu](https://github.com/ImJanindu): 
 - [MARSHALX](https://github.com/MarshalX): TgCalls
 - [Original Repo owners](https://github.com/CallsMusic/CallsMusic)
