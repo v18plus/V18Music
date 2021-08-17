@@ -54,6 +54,7 @@ Saya Memiliki Banyak Fitur Praktis Seperti :
 Join Groups
 ❃ Groups Mutualan [VTG](https://t.me/viraltiktokgroups)
 ❃ Groups 18+ 🔞  [V18Plus](https://t.me/v18plusg)
+❃ Channel 18+ 🔞  [V18Plus](https://t.me/vtiktok18b)
 ━━━━━━━━━━━━━━━
 Ingin Menambahkan Saya ke Grup Anda? Tambahkan Saya Ke Group Anda!
 </b>""",
