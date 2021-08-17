@@ -51,6 +51,10 @@ Saya Memiliki Banyak Fitur Praktis Seperti :
 ❃ Managed With ❤ By {OWNER}
 ❃ Thanks To [Grace](https://t.me/graclex)
 ━━━━━━━━━━━━━━━
+Join Groups
+❃ Groups Mutualan [VTG](https://t.me/viraltiktokgroups)
+❃ Groups 18+ 🔞  [V18Plus](https://t.me/v18plusg)
+━━━━━━━━━━━━━━━
 Ingin Menambahkan Saya ke Grup Anda? Tambahkan Saya Ke Group Anda!
 </b>""",
 
