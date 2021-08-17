@@ -1,1 +1,1 @@
-worker: python3 -m MusicMan
+worker: python3 -m V18Music
